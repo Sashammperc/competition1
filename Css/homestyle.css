@@ -1,0 +1,9 @@
+body {
+  background-color: #f7ece3
+
+  }
+.header {
+  background-color: #3c6f48;
+  justify-content: center;
+  position: fixed; bottom: 0;
+}
