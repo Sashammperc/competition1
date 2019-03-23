@@ -4,6 +4,6 @@ body {
   }
 .header {
   background-color: #3c6f48;
-  justify-content: center;
   position: fixed; bottom: 0;
+  padding: 40px;
 }
