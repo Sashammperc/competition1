@@ -1,9 +1,23 @@
 body {
-  background-color: #f7ece3
-
+  background-color: #fdf4ed
+  font-family: sans-serif;
   }
-.header {
-  background-color: #3c6f48;
+
+.footer {
+  background-color: #395d38;
   position: fixed; bottom: 0;
-  padding: 40px;
+  padding: 7px;
+  width: 100%;
+  color: #c2bab3;
 }
+
+
+/* .carousel-inner {
+  width: 30%;
+  height: 300px;
+} */
+
+/*
+Alternative greens
+005d16
+3A5F0B*/
