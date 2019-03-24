@@ -1,14 +1,20 @@
 body {
-  background-color: #fdf4ed
-  font-family: sans-serif;
-  }
+  background-color: #fdf4ed;
+  font-family: sans-serif;}
 
 .footer {
   background-color: #395d38;
   position: fixed; bottom: 0;
+  font-family: impact;
+  font-weight: lighter;
   padding: 7px;
   width: 100%;
   color: #c2bab3;
+}
+
+.column {
+  object-fit: cover;
+  width: auto;
 }
 
 
