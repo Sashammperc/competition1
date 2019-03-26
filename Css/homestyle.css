@@ -1,6 +1,9 @@
 body {
   background-color: #fdf4ed;
-  font-family: sans-serif;}
+  font-family: sans-serif;
+  height:1080px;
+  width:100%
+}
 
 .footer {
   background-color: #395d38;
@@ -41,12 +44,6 @@ src: url("css/fonts/mosk_normal_400.eot");
 src:
 url("css/fonts/mosk_normal_400-webfont.woff") format("woff"),
 url("css/fonts/mosk_normal_400.otf") format("opentype"),
-
-} */
-/* .carousel-inner {
-  width: 30%;
-  height: 300px;
-} */
 
 /*
 Alternative greens
