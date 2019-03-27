@@ -1,5 +1,6 @@
 body {
-  background-color: #fdf4ed;
+  background-image: url(../images/white-waves.png);
+  /* background-color: #fdf4ed; */
   font-family: sans-serif;
   height: 1080px;
   width: 100%;
@@ -15,7 +16,7 @@ h1 {
 }
 
 .footer {
-  background-color: #395d38;
+  background-color: #000045;
   position: fixed; bottom: 0;
   padding: 7px;
   width: 100%;
