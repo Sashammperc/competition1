@@ -1,13 +1,57 @@
 body {
-  background-image: url(../images/white-waves.png);
+  background-image: url(../images/Grass.jpg);
   /* background-color: #fdf4ed; */
-  font-family: sans-serif;
+  font-family:shadows-into-light;
   height:1080px;
   width:100%
 }
+@font-face {  font-family:shadows-into-light;
+  src:url(../fonts/ShadowsIntoLight.ttf);
+
+}
+#search_bar {
+  font-size: 2em;
+  color: white;
+  text-shadow: 2px 2px #9BACB5;
+}
+
+h1 {
+  font-size: 1.9em;
+  color: white;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: white;
+}
+
+.form-group {
+  font-size: 1.0em;
+  color: white;
+}
+
+.form-text-text-muted {
+  font-size: .7em;
+  color: white;
+}
+
+h3 {
+  font-size: 2.5em;
+  color: white;
+  text-indent: 30px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 2em;
+  color: white;
+  background-color: black;
+  filter: alpha(opacity=60);
+  opacity: 0.6;
+}
 
 .footer {
-  background-color: #000045;
+  background-image: url(../images/Grass.jpg);
   position: fixed; bottom: 0;
   padding: 4px;
   width: 100%;
