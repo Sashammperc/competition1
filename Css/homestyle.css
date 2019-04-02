@@ -12,27 +12,21 @@ body {
 #search_bar {
   font-size: 2em;
   color: white;
-  text-shadow: 2px 2px #9BACB5;
+  font-weight: bold;
 }
+
 
 h1 {
   font-size: 1.9em;
   color: white;
+  text-align: center;
 }
 
 h2 {
   font-size: 1.5em;
   color: white;
-}
-
-.form-group {
-  font-size: 1.0em;
-  color: white;
-}
-
-.form-text-text-muted {
-  font-size: .7em;
-  color: white;
+  text-align: center;
+  font-weight: normal;
 }
 
 h3 {
@@ -41,6 +35,25 @@ h3 {
   text-indent: 30px;
   font-weight: bold;
 }
+
+
+h4 {
+  font-size: 1.2em;
+  color: white;
+  text-align: center;
+}
+
+.form-group {
+  font-size: 1.0em;
+  color: white;
+  text-align: right;
+}
+
+.form-text-text-muted {
+  font-size: .7em;
+  color: white;
+}
+
 
 p {
   font-size: 2em;
@@ -55,7 +68,6 @@ p {
   position: fixed; bottom: 0;
   padding: 4px;
   width: 100%;
-  color: #c2bab3;
 }
 
 .grid {
@@ -64,6 +76,11 @@ p {
   padding: 30px;
 }
 
+.grid {
+  height: 200;
+  width: 300;
+  padding: 30;
+}
 .row {
   display: flex;
   flex-wrap: wrap;

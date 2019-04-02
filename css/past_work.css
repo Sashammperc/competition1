@@ -1,0 +1,43 @@
+body {
+  background-image: url(../images/Grass.jpg);
+  /* background-color: #fdf4ed; */
+  font-family:shadows-into-light;
+  height:1080px;
+  width:100%
+}
+@font-face {  font-family:shadows-into-light;
+  src:url(../fonts/ShadowsIntoLight.ttf);
+
+}
+#search_bar {
+  font-size: 2em;
+  color: white;
+  font-weight: bold;
+}
+
+
+h1 {
+  font-size: 1.9em;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: white;
+  text-align: center;
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 2.5em;
+  color: white;
+  text-indent: 30px;
+  font-weight: bold;
+}
+
+.grid {
+  height: 200;
+  width: 300;
+  padding: 30;
+}
